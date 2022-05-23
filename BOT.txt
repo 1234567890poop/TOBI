@@ -1,0 +1,5 @@
+{
+	"ip":"legendsRAhw.aternos.me",
+	"port": "33734",
+	"name": "bot"
+}
